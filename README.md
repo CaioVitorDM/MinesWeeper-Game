@@ -6,5 +6,5 @@ It was all made using C language and structs, functions, recursion, etc.
 
 To compile this program you can use the following command line at the terminal on the folder of the project:
 
-gcc -o output_name_u_want Minesweeper.c
+```gcc -o output_name_u_want Minesweeper.c```
 
